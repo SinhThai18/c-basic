@@ -1,0 +1,14 @@
+D:\c# basic\DemoGeneric\DemoGeneric\bin\Debug\net8.0\DemoGeneric.exe
+D:\c# basic\DemoGeneric\DemoGeneric\bin\Debug\net8.0\DemoGeneric.deps.json
+D:\c# basic\DemoGeneric\DemoGeneric\bin\Debug\net8.0\DemoGeneric.runtimeconfig.json
+D:\c# basic\DemoGeneric\DemoGeneric\bin\Debug\net8.0\DemoGeneric.dll
+D:\c# basic\DemoGeneric\DemoGeneric\bin\Debug\net8.0\DemoGeneric.pdb
+D:\c# basic\DemoGeneric\DemoGeneric\obj\Debug\net8.0\DemoGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# basic\DemoGeneric\DemoGeneric\obj\Debug\net8.0\DemoGeneric.AssemblyInfoInputs.cache
+D:\c# basic\DemoGeneric\DemoGeneric\obj\Debug\net8.0\DemoGeneric.AssemblyInfo.cs
+D:\c# basic\DemoGeneric\DemoGeneric\obj\Debug\net8.0\DemoGeneric.csproj.CoreCompileInputs.cache
+D:\c# basic\DemoGeneric\DemoGeneric\obj\Debug\net8.0\DemoGeneric.dll
+D:\c# basic\DemoGeneric\DemoGeneric\obj\Debug\net8.0\refint\DemoGeneric.dll
+D:\c# basic\DemoGeneric\DemoGeneric\obj\Debug\net8.0\DemoGeneric.pdb
+D:\c# basic\DemoGeneric\DemoGeneric\obj\Debug\net8.0\DemoGeneric.genruntimeconfig.cache
+D:\c# basic\DemoGeneric\DemoGeneric\obj\Debug\net8.0\ref\DemoGeneric.dll

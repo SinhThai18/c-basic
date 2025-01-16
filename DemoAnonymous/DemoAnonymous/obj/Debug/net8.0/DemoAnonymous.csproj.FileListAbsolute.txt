@@ -1,0 +1,14 @@
+D:\c# basic\DemoAnonymous\DemoAnonymous\bin\Debug\net8.0\DemoAnonymous.exe
+D:\c# basic\DemoAnonymous\DemoAnonymous\bin\Debug\net8.0\DemoAnonymous.deps.json
+D:\c# basic\DemoAnonymous\DemoAnonymous\bin\Debug\net8.0\DemoAnonymous.runtimeconfig.json
+D:\c# basic\DemoAnonymous\DemoAnonymous\bin\Debug\net8.0\DemoAnonymous.dll
+D:\c# basic\DemoAnonymous\DemoAnonymous\bin\Debug\net8.0\DemoAnonymous.pdb
+D:\c# basic\DemoAnonymous\DemoAnonymous\obj\Debug\net8.0\DemoAnonymous.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# basic\DemoAnonymous\DemoAnonymous\obj\Debug\net8.0\DemoAnonymous.AssemblyInfoInputs.cache
+D:\c# basic\DemoAnonymous\DemoAnonymous\obj\Debug\net8.0\DemoAnonymous.AssemblyInfo.cs
+D:\c# basic\DemoAnonymous\DemoAnonymous\obj\Debug\net8.0\DemoAnonymous.csproj.CoreCompileInputs.cache
+D:\c# basic\DemoAnonymous\DemoAnonymous\obj\Debug\net8.0\DemoAnonymous.dll
+D:\c# basic\DemoAnonymous\DemoAnonymous\obj\Debug\net8.0\refint\DemoAnonymous.dll
+D:\c# basic\DemoAnonymous\DemoAnonymous\obj\Debug\net8.0\DemoAnonymous.pdb
+D:\c# basic\DemoAnonymous\DemoAnonymous\obj\Debug\net8.0\DemoAnonymous.genruntimeconfig.cache
+D:\c# basic\DemoAnonymous\DemoAnonymous\obj\Debug\net8.0\ref\DemoAnonymous.dll
